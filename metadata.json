@@ -1,0 +1,7 @@
+{
+  "name": "Manushya",
+  "description": "A healthcare ward management application for hospital doctors and nurses to track patients, prioritize critical cases, and streamline ward rounds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
